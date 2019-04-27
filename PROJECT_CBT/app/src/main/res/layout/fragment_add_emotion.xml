@@ -1,0 +1,71 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/not_color"
+    android:layout_marginTop="15dp"
+    tools:context=".fragment.AddEventFragment">
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/gradient_layout_emotion"
+    android:layout_gravity="center_horizontal|top"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtEmotionTitle"
+        android:textAllCaps="false"
+        android:text="text"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/text_title"/>
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/emo_2"
+            android:layout_gravity="center"
+            android:background="@color/not_color"
+            android:id="@+id/imgTitlePanic1" />
+
+    </FrameLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:text="@string/_0"
+        android:textColor="@color/common_green_1"
+        android:layout_gravity="center"
+        android:id="@+id/txtTitlePanic"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:text="@string/ok"
+            android:id="@+id/btnOkTitlePanic"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/colorText"
+            android:background="@drawable/border_button_l"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:text="@string/back"
+            android:id="@+id/btnBackTitlePanic"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/text_title"
+            android:textAllCaps="false"
+            android:background="@drawable/border_button_r"/>
+    </LinearLayout>
+</LinearLayout>
+</LinearLayout>

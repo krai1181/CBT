@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/gradient_button_info_grey"
+        android:orientation="horizontal"
+        android:layout_marginLeft="7dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginRight="7dp"
+        android:gravity="start|center_vertical"
+        android:paddingLeft="10dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:layout_weight="1"
+            android:id="@+id/txt1"
+            android:textAllCaps="false"
+            android:textSize="13sp"
+            android:textColor="@color/dark_gray"/>
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageBtn"
+            android:layout_gravity="right|center_vertical"
+            android:layout_marginRight="10dp"
+            android:background="@color/not_color"
+            android:src="@drawable/info_gray_d" />
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:textAllCaps="false"
+        android:textSize="12dp"
+        android:id="@+id/txt2"
+        android:layout_marginRight="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="5dp"
+        />
+</LinearLayout>

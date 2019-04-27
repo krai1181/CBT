@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/buttonDialog"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/gradient"
+            android:gravity="start|center_vertical"
+            android:paddingLeft="35dp"
+            android:drawableRight="@drawable/button_delete_1"
+            android:paddingRight="15dp"
+            android:textAllCaps="false"
+            android:textColor="#798184"></Button>
+</LinearLayout>

@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">PROJECT_CBT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="therapist_email">Therapist email:</string>
+    <string name="event_list">Event List</string>
+    <string name="panic_attack_example">Panic attack (example)</string>
+    <string name="history">History</string>
+    <string name="back">Back</string>
+    <string name="send_all">Send all</string>
+    <string name="attack_example">Panic attack (example)</string>
+    <string name="automatic_thoughts">Automatic Thoughts</string>
+    <string name="cognitive_distortion">Cognitive Distortion</string>
+    <string name="settings">Settings</string>
+    <string name="helpful_thoughts">Helpful Thoughts</string>
+    <string name="emotions">Emotions</string>
+    <string name="behavior">Behavior</string>
+    <string name="personal_notes">Personal Notes</string>
+    <string name="send">Send</string>
+    <string name="information">Information</string>
+    <string name="helpful_behavior">Helpful Behavior</string>
+    <string name="ineffective_bahavior">Ineffective Bahavior</string>
+    <string name="text_notes">Text Notes</string>
+    <string name="recordings">Recordings</string>
+    <string name="fear">fear</string>
+    <string name="title_for_new_event">Title for New Event</string>
+    <string name="ok">OK</string>
+    <string name="_0">0%</string>
+    <string name="panic">panic</string>
+    <string name="end_event">End Event</string>
+    <string name="helplessness">helplessness</string>
+    <string name="add_helpful_throught">Add Helpful Throught</string>
+    <string name="add_text_notes">Add Text Notes </string>
+    <string name="add_automatic_throught">Add Automatic Throught</string>
+    <string name="add_helpful_behavior">Add Helpful Behavior</string>
+    <string name="add_emotion">Add Emotion</string>
+    <string-array name="emotions">
+        <item name="fear">fear</item>
+        <item name="panic">panic ></item>
+        <item name="helplessness">helplessness</item>
+        <item name="sad">sad</item>
+    </string-array>
+    <string-array name="text_not">
+        <item name="notes">letter to my self</item>
+    </string-array>
+    <string-array name="letter_to_my_self">
+        <item name="letter_first">I wrote this letter for this very moment.\n Although all seems doomed now, I am\n prepared to cope with this unpleasant\n experience and realize that what i feel\n is temporary. Occasionally my brain \n triggers the survival alert although\n there is no real threat. Trying to \n counter attack the panic will end up \n with more stress and stimulation which\n isn\'t effective. The symptoms and \n tricks of anxiety are known to me. I also\n realize that helpful thoughts or breathing will not make anxiety\n disappear, but they may reduce it and\n promote a faster resolution. Note to\n oneself: regardless of its    \n unpleasantness, do not fear the experience of anxiety. Read the \n thoughts that help and practice\n mindfulness as learned in therapy\n sessions.  </item>
+    </string-array>
+    <string-array name="authomatic">
+        <item name="i_crazy">I\'m going crazy</item>
+        <item name="i_must_gain_control">I must gain control</item>
+        <item name="i_can">I can\'t breath</item>
+        <item name="i_defected">I\'m defected</item>
+        <item name="i_can_stand_it">I can\'t stand it</item>
+    </string-array>
+    <string-array name="helpful_thuog">
+        <item name="this_is_just">this is just a fault alert</item>
+        <item name="it_is_very_frightening">it is very frightening but not dangerous</item>
+        <item name="i_survived">I survived similar experiences in the past</item>
+        <item name="i_feel_terrible">I feel terrible but can handle it </item>
+        <item name="i_will_feel">I will feel better in 45 minutes </item>
+    </string-array>
+    <string-array name="helpful_behr">
+        <item name="deep_breath">deep breath and slow exhalation</item>
+        <item name="listen">listen and recording I\'ve prepared </item>
+        <item name="call_a">call a supportive friend</item>
+        <item name="grounding">grounding exercise</item>
+        <item name="read">read helpful thoughts</item>
+    </string-array>
+    <string-array name="ineffective_beh">
+        <item name="go_to">go to hospital</item>
+        <item name="sit_on">sit on bed and wait for the attack to pass</item>
+    </string-array>
+    <string-array name="button_info">
+        <item name="what_is_cbtwithyou">What is CBTwithyou</item>
+        <item name="how_to_use">How to use CBTwithyou for real time assistance</item>
+        <item name="to_define">CBTwithyou - How to define an event and enter content</item>
+        <item name="cognitive_behavioral">What is Cognitive Behavioral Therapy(CBT)</item>
+        <item name="thought_distortions">Thought Distortions</item>
+        <item name="about">About</item>
+    </string-array>
+    <string-array name="text_info">
+        <item name="cbt_withyou">CBT withyou application was developed to promote cognitive behavioral therapy by assisting clients in coping with real time events. CBT withyou helps clients to better manage and cope with events or experiences by providing them alternative thoughts, suitable behavior, identification of thought distortion and supportive written and recorded messages. CBT withyou content is all saved in one place and is created during therapy sessions. It is custom made for the unique needs of each client. CBT withyou encourages clients to practice therapeutic tools which are provided in the therapy sessions and makes it easy to monitor clients behavior in a specific event as well as over a period of time.</item>
+        <item name="how_to_use_cbt"><b>Event List screen</b>: select the predefined event that is currently taking place. From the main app window choose one of the tools that were designed to help you in this exact condition:\n <b>Helpful Thoughts</b>: read and tag thoughts that promote a more accurate and positive perspective of reality. The selected thought may be read a few time to increase its presence versus automatic thoughts.\n <b>Personal Notes</b>: listen to one of the predefined recordings or read the text note.\n <b>Helpful Behavior</b>: explore and execute behavior that will promoted better coping.</item>
+        <item name="how_to_define">Event List screen: client can select or create a new event. \"Event\" can represent a problem or a difficulty that was already explored in therapy sessions like a panic attack, depression, an argument with a child, etc. After selecting an event the main application screen is displayed. In this screen the client can add automatic thoughts and emotions that typically appear in the specific event, and create helpful thoughts and personal notes (text and recordings).\n <b>Terminology of main functionality</b>:\n<b>Automatic thoughts</b> - the immediate thoughts that appear in response to an event (external or internal). These thoughts influence our emotions and experiences by providing the interpretation we give to the event.\n <b>Cognitive Distortions</b>\         ־ thoughts that cause individuals to perceive reality inaccurately. Distorted thought patterns may lead to higher levels of negative emotions. Learning to recognize these patterns can help create more accurate perception of reality and reduce emotional stress as a result.\n <b>Emotion</b> - emotions that clients recognize during an event. Each emotion can be rated with a number from 1 to 100 indicating its intensity.\n <b>Helpful Thoughts</b> - alternative or self - statements thoughts that better represent reality and assist in reducing negative emotional levels.\n <b>Behavior</b> - Clients behavior may be inefficient in coping with an event. CBTwithyou allows the client to recognize ineffective behavior and exchange it with recommended effective behavior that was explored in therapy.\n <b>Personal Note</b> - provides the client an option to record personal notes, mindfulness or imaginary guidance, and statements that will assist in real time coping. Personal note may also include a letter to oneself, a letter from the therapist or any other message that can promote better coping with an event.</item>
+        <item name="cognitive"><i>From Wikipedia</i> \nCognitive behavioral therapy (CBT) is a form of psychotherapy. It was originally designed to treat depression, but is now used for a number of mental challenges. It works to solve current problems and change unhelpful thinking and behavior. The name refers to behavior therapy, cognitive therapy, and therapy based upon a combination of basic behavioral and cognitive principles. Most therapists working with patients dealing with anxiety and depression use a blend of cognitive and behavioral therapy. This technique acknowledges that there may be behaviors that cannot be controlled through rational thought, but rather emerge based on prior conditioning from the environment and other external and/or internal stimuli. CBT is \"problem focused\" (undertaken for specific problems) and \"action oriented\" (therapist tries to assist the client in selecting specific strategies to help address those problems), or directive in its therapeutic approach. Behaviorists believe that disorders, such as depression, have to do with the relationship between a feared stimulus and an avoidance response, resulting in a conditioned fear, much like Ivan Pavlov. Cognitive therapists believed that conscious thoughts could influence a person\'s behavior all on its own. Ultimately, the two theories were combined to create what we now know as cognitive behavioral therapy. CBT is effective for a variety of conditions, including mood, anxiety, personality, eating, substance abuse, tic, and psychotic disorders. Many CBT treatment programs have been evaluated for symptom-based diagnoses and been favored over other approaches.</item>
+        <item name="t_distortions"><b>Dichotomous Reasoning</b>־ Seeing things in black or white as opposed to shades of gray; thinking in terms of false dilemmas. Splitting involves using terms like \"always\", \"every\" or \"never\" when this is neither true, nor equivalent to the truth.\n <b>Overgeneralization</b> - Making hasty generalizations from insufficient experiences and evidence. Making a very broad conclusion based on a single incident or a single piece of evidence. If something bad happens only once, it is expected to happen over and over again.\n <b>Filtering</b> ־ Focusing entirely on negative elements of a situation, to the exclusion of the positive. Also, the brain\'s tendency to filter out information which does not conform to already held beliefs. \n Example: After receiving comments about a work presentation, a person focuses on the single critical comment and ignores what went well. \n <b>Magnification and minimizing, Catastrophizing</b> - Giving proportionally greater weight to a perceived failure, weakness or threat, or lesser weight to a perceived success, strength or opportunity, so the weight differs from that assigned to the event or thing by others. This is common enough in the normal population to popularize idioms such as \"make a mountain out of a molehill\". In depressed clients, often the positive characteristics of other people are exaggerated and negative characteristics are understated. There is one subtype of magnification: Catastrophizing - Giving greater weight to the worst possible outcome, however unlikely, or experiencing a situation as unbearable or impossible when it is just uncomfortable.Example: A teenager is too afraid to start driver\'s training because he believes he would get himself into an accident.\n<b>Jumping to Conclusion, Mind reading or Fortune telling</b> - reaching preliminary conclusions (usually negative) from little (if any) evidence. Two specific subtypes are identified: \nInferring a person\'s possible or probable (usually negative) thoughts from their behavior and nonverbal communication; taking precautions against the worst reasonably suspected case or some other preliminary conclusion, without asking the person. \nExample: A student assumes the readers of their paper have already made up their mind concerning its topic, and therefore writing the paper is a pointless exercise. \n Fortune-telling: predicting negative outcomes of events.\n Example: Being convinced of failure before a test, when the student is in fact prepared. \n <b>Labeling and Mislabeling </b> ־ A more severe type of overgeneralization: attributing a person\'s actions to their character instead of some accidental attribute. Rather than assuming the behavior to be accidental or extrinsic, the person assigns a label to someone or something that implies the character of that person or thing. Mislabeling involves describing an event with language that has a strong connotation of a person\'s evaluation of the event.\n Example of  \"labeling\": Instead of believing that you made a mistake, you believe that you are a loser, because only a loser would make that kind of mistake. Or, someone who made a bad first impression is a \"jerk\" in the absence of some more specific cause.\n Example of \"mislabeling\": A woman who places her children in a day care center is \"abandoning her children to strangers,\" because the person who says so highly values the bond between mother and child. \n <b>Disqualifying the positive</b> - Discounting positive events. Example: Upon receiving a congratulation, a person dismisses it out-of־hand, believing it to be undeserved, and automatically interpreting the compliment (at least inwardly) as an attempt at flattery or perhaps as arising out of naivete. \n<b>Emotional reasoning</b> - Presuming that negative feelings expose the true nature of things, and experiencing reality as a reflection of emotionally linked thoughts. Thinking something is true, solely based on a feeling. \n Example: \"I feel (i.e. think that I am) stupid or boring, therefore I must be. \"Or, feeling that fear of flying in planes means planes are a very dangerous way to travel. Or, concluding that it\'s hopeless to clean one\'s house due to being overwhelmed by the prospect of cleaning. \n<b>Personalization </b>- Attributing personal responsibility, including the resulting praise or blame, for events over which a person has no control. \n Example: A mother whose child is struggling in school blames herself entirely for being a bad mother, because she believes that her deficient parenting is responsible. In fact, the real cause may be something else entirely. \n<b>Should statements </b> Doing, or expecting others to do, what they morally should or ought to do irrespective of the particular case the person is faced with. This involves conforming strenuously to ethical categorical imperatives which, by definition, \"always apply,\" or to hypothetical imperatives which apply in that general type of case. Albert Ellis termed this \"musturbation\". Psychotherapist Michael C. Graham describes this as \"expecting the world to be different than it is\".\n Example: After a performance, a concert pianist believes he or she should not have made so many mistakes. Or, while waiting for an appointment, thinking that the service provider should be on time, and feeling better and resentful as a result </item>
+        <item name="about_cbt"><b>App copyrights</b> \n\n Copyright © 2015 Amir Gilboa. All rights reserved Unless otherwise indicated, all materials on CBTwithyou application are copyrighted by Amir Gilboa. All rights reserved. No part of this app, either functionality text or image may be used for any purpose other than personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.\n\n<b>Credits</b> \n\n Founder: Amir Gilboa, cbtwithyou@gmail.com \n\nProject manager. \n Evgeny Sharfarets, evgeny.sharfarets@gmail.com \n\nDeveloper: \nIlya Kalabanov \n\nDesigner. \nEkaterina Nesterenko \n\nSpecial thanks to TeIRAN company, tel-rangtel-ran co il</item>
+    </string-array>
+
+    <string-array name="text_button">
+        <item name="dichotomous_reasoning">Dichotomous reasoning</item>
+        <item name="overgeneralization">Overgeneralization</item>
+        <item name="filtering">Filtering</item>
+        <item name="magnification_and_minimizing">Magnification and minimizing, Catastrophizing</item>
+        <item name="jumping_to_conclusion">Jumping to Conclusion, Mind reading or Fortune telling</item>
+        <item name="labeling_and_mislabeling">Labeling and mislabeling</item>
+        <item name="disqualifying_the_positive">Disqualifying the positive</item>
+        <item name="emotional_reasoning">Emotional reasoning</item>
+        <item name="personalization">Personalization</item>
+        <item name="should_statements">Should statements</item>
+    </string-array>
+    <string-array name="text_view">
+        <item name="cd_dichotomous">Seeing things in black or white as opposed to shades of grey; thinking in terms of false dilemmas. Splitting involves using terms like \"always\", \"every\" or \"never\" when this is neither true, not equivalent to the truth. </item>
+        <item name="hasty_generalizations">Making hasty generalizations from insufficient experiences and evidence. Making a very broad conclusion based on a single incident or a single piece of evidence. If something bad happens only once, it is expected to happen over and over again. </item>
+        <item name="focusing_entirely">Focusing entirely on negative elements of a situation, to the exclusion of the positive. Also, the brain\'s tendency to filter out information which does not conform to already held beliefs. Example: After receiving comments about a work presentation, a person focuses on the single critical comment and ignores what went well. </item>
+        <item name="giving_proportionally">Giving proportionally greater weight to a perceived failure. weakness or threat, or lesser weight to a perceived success, strength or opportunity, so the weight differs from that assigned to the event or thing by others. This is common enough in the normal population to popularize idioms such as \”make a mountain out of a molehill\”, In depressed clients, often the positive characteristics of other people are exaggerated and negative characteristics are understated. There is one subtype of magnification: Catastrophizing — Giving greater weight to the worst possible outcome, however unlikely, or experiencing a situation as unbearable or impossible when it is just uncomfortable. Example: A teenager is too afraid to start driver\’s training because he believes he would get himself into an accident.</item>
+        <item name="reaching_preliminary">Reaching preliminary conclusions (usually negative) from little (if any) evidence. Two specific subtypes are identified: Mind reading: Inferring a person\'s possible or probable (usually negative) thoughts from their behavior and nonverbal communication; taking precautions against the worst reasonably suspected case or some other preliminary conclusion, without asking the person. Example: A student assumes the readers of their paper have already made up their mind concerning its topic, and therefore writing the paper is a pointless exercise. Fortune-telling: predicting negative outcomes of events. Example: Being convinced of failure before a test, when the student is in fact prepared.</item>
+        <item name="a_more_severe">A more severe type of overgeneralization; attributing a person\'s actions to their character instead of some accidental attribute. Rather than assuming the behavior to be accidental or extrinsic, the person assigns a label to someone or something that implies the character of that person or thing. Mislabeling involves describing an event with language that has a strong connotation of a person\'s evaluation of the event. Example of \"labeling\": Instead of believing that you made a mistake, you believe that you are a loser, because only a loser would make that kind of mistake. Or, someone who made a bad first impression is a \"jerk\", in the absence of some more specific cause. Example of \"mislabeling\": A woman who places her children in a day care center is \"abandoning her children to strangers,\" because the person who says so highly values the bond between mother and child.  </item>
+        <item name="disqualifying">Discounting positive events. Example: Upon receiving a congratulation, a person dismisses it out-of-hand, believing it to be undeserved, and automatically interpreting the compliment (at least inwardly) as an attempt at flattery or perhaps as arising out of naivete. </item>
+        <item name="emotional">Presuming that negative feelings expose the true nature of things. and experiencing reality as a reflection of emotionally linked thoughts. Thinking something is true, solely based on a feeling. Example: \”I feel (i.e. think that I am) stupid or boring, therefore I must bee. \”Or, feeling that fear of flying in planes means planes are a very dangerous way to travel. Or, concluding that it\'s hopeless to clean one\'s house due to being overwhelmed by the prospect of cleaning.</item>
+        <item name="attributirg personal">Attributing personal responsibility, including the resulting praise or blame, for events over which a person has no control Example. A mother whose child is snuggling in school blames herself entirely for being a bad mother, because she believes that her deficient patenting is responsible. In fact, the real cause may be something else entirely.</item>
+        <item name="statements">Doing, or expecting others to do, what they morally should or ought to do irrespective of the particular case the person is faced with. This involves conforming strenuously to ethical categorical imperatives which, by definition, \'always apply\', or to hypothetical imperatives which apply in that general type of case. Aped Ellis termed this \'musturbation\'. Psychotherapist Michael C. Graham describes this as \”expecting the world to be different than it is\”. Example: After a performance, a concert pianist believes he or she should not have made so many mistakes. Or, while waiting for an appointment, thinking that the service provider should be on time, and feeling bitter and resentful as a result. </item>
+
+    </string-array>
+    <string name="title_activity_text_notes">TextNotesActivity</string>
+    <string name="edit_text_note">Edit Text Note</string>
+    <string name="to">To:</string>
+    <string name="subject">Subject:</string>
+    <string name="events_report">Events report</string>
+    <string name="sendMail">Send</string>
+    <string name="cancel">Cancel</string>
+
+</resources>

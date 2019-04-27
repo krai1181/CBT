@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".activity.MainActivity">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/colorProject"
+       android:gravity="center_horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/title_welcome"
+                android:layout_gravity="top|center_horizontal"
+                android:id="@+id/imgCbt"
+                android:layout_marginTop="5dp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="30dp"
+                android:id="@+id/CenterBtn"
+                android:src="@drawable/logo_button_up"
+                android:background="@color/colorProject"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="bottom|center_horizontal"
+        android:gravity="bottom"
+        >
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/SettingsBtn"
+            android:src="@drawable/settings_u"
+            android:background="@color/colorProject"
+            android:baselineAlignBottom="false"
+            android:layout_gravity="bottom|center_horizontal" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/settings"
+            android:textSize="16sp"
+            android:textColor="@color/button_clipped_b_3"
+            android:gravity="bottom|center_horizontal"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="7dp"/>
+    </LinearLayout>
+</RelativeLayout>

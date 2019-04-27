@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#2FA9D2</color>
+    <color name="colorProject">#edf0f2</color>
+    <color name="colorText">#fE7777</color>
+    <color name="colorLayout">#edf0f2</color>
+    <color name="not_color">#00000000</color>
+    <color name="helf_white">#00ffffff</color>
+    <color name="white_smoke">#f2f5f6</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="dark_blue">#6593bb</color>
+    <color name="dark_green">#82af52</color>
+    <color name="dark_gray">#5f676a</color>
+    <color name="light_red">#ff7373</color>
+    <color name="light_gray">#eeeeee</color>
+    <color name="background_gray">#edf0f2</color>
+    <color name="popup_body">#d7dde3</color>
+    <color name="popup_border">#a1a1a2</color>
+    <color name="text_field_body">#ffffff</color>
+    <color name="text_field_border">#a1a1a2</color>
+    <color name="text_title">#8cacc8</color>
+
+    <color name="list_item_1">#f5f8fa</color>
+    <color name="list_item_2">#c0c9cb</color>
+
+    <color name="button_big_1">#73bae1</color>
+    <color name="button_big_2">#3c89b2</color>
+    <color name="button_big_3">#2d7ca6</color>
+    <color name="button_clipped_a_1">#73cbe1</color>
+    <color name="button_clipped_a_2">#41a0b6</color>
+    <color name="button_clipped_a_3">#3b8ea3</color>
+    <color name="button_clipped_b_1">#d8dcde</color>
+    <color name="button_clipped_b_2">#b0b8ba</color>
+    <color name="button_clipped_b_3">#9da4a6</color>
+    <color name="button_clipped_c_1">#fc7e7e</color>
+    <color name="button_clipped_c_2">#ea6562</color>
+    <color name="button_clipped_c_3">#db5351</color>
+
+    <color name="audio_bg_1">#b1bbbd</color>
+    <color name="audio_bg_2">#bac3c5</color>
+    <color name="audio_bg_3">#a5aeb0</color>
+    <color name="audio_fg_1">#a7cfed</color>
+    <color name="audio_fg_2">#64a8dd</color>
+    <color name="audio_fg_3">#4795cf</color>
+
+    <color name="audio_vis_bg">#c8cecf</color>
+    <color name="audio_vis_cursor">#36a3ff</color>
+    <color name="audio_vis_peaks">#0d2b98</color>
+    <color name="audio_vis_mask">#5f676a</color>
+
+    <color name="emo_step_1">#96c465</color>
+    <color name="emo_step_2">#ffa862</color>
+    <color name="emo_step_3">#ff6446</color>
+    <color name="emo_step_4">#e64747</color>
+
+    <color name="common_blue_1">#33b5e5</color>
+    <color name="common_blue_2">#0099cc</color>
+    <color name="common_purple_1">#aa66cc</color>
+    <color name="common_purple_2">#9933cc</color>
+    <color name="common_green_1">#aed189</color>
+    <color name="common_green_2">#669900</color>
+    <color name="common_orange_1">#ffbb33</color>
+    <color name="common_orange_2">#ff8800</color>
+    <color name="common_red_1">#ff4444</color>
+    <color name="common_red_2">#cc0000</color>
+</resources>
+
+
